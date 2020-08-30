@@ -21,5 +21,3 @@ search.addEventListener("keyup", (e) => {
 })
 
 
-// const h = new prithwish();
-// h.printfunction("Prithwish is a stud");
